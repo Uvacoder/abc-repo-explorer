@@ -15,7 +15,7 @@
     "query-string": "^6.13.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-hook-form": "^6.14.0",
+    "react-hook-form": "^6.15.8",
     "react-i18next": "^11.8.5",
     "react-icons": "^3.10.0",
     "react-query": "^3.5.11",
